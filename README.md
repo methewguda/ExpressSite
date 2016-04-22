@@ -72,3 +72,6 @@ Now browse to the app at `http://localhost:3000`.
 ![services](screenshots/services.png "Services")
 ![contact](screenshots/contact.png "Contact")
 
+## Project Demo
+
+Please click on this link - [https://secure-river-56901.herokuapp.com/](https://secure-river-56901.herokuapp.com/)
