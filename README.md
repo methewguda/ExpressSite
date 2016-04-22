@@ -7,10 +7,10 @@ To get you started you can simply clone the ExpressSite repository and install t
 ### Prerequisites
 
 You need git to clone the ExpressSite repository. You can get git from
-[http://git-scm.com/](http://git-scm.com/).
+[http://git-scm.com/](http://git-scm.com/){:target="_blank"}.
 
 We also use a number of node.js tools to initialize and test ExpressSite. You must have node.js and
-its package manager (npm) installed.  You can get them from [http://nodejs.org/](http://nodejs.org/).
+its package manager (npm) installed.  You can get them from [http://nodejs.org/](http://nodejs.org/){:target="_blank"}.
 
 ### Clone ExpressSite
 
@@ -74,4 +74,4 @@ Now browse to the app at `http://localhost:3000`.
 
 ## Project Demo
 
-Please click on this link - [https://secure-river-56901.herokuapp.com/](https://secure-river-56901.herokuapp.com/)
+Please click on this link - [https://secure-river-56901.herokuapp.com/](https://secure-river-56901.herokuapp.com/){:target="_blank"}
