@@ -44,3 +44,23 @@ npm install
 * `node_modules` - contains the npm packages for Jade we need
 * `node_modules/jade` - contains JADE files
 * `node_modules/nodemailer` - contains Node Mailer files
+
+### Setting Up Email Credential
+
+Before run the application you must setup your email credential.
+Please goto `routes/contact.js` and enter following credentials:
+
+* `var service` = `'gmail or outlook or yahoo or live or .......';`
+* `var username` = `'enter your email here';`
+* `var password` = `'Enter your password here';`
+
+### Run the Application
+
+We have preconfigured the project with a simple development web server.  The simplest way to start
+this server is:
+
+```
+npm start
+```
+
+Now browse to the app at `http://localhost:3000`.
